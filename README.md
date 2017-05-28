@@ -18,7 +18,7 @@ This repository contains the report and code for a project to estimate a model t
 - **group_1_variable_test_results.R** - testing the model performance of all regression methods using every combination of variables in Group 1
 - **group_2_variable_test_results.R**, **group_3_variable_test_results.R**, **group_4_variable_test_results.R** - testing the model performance of all regression methods using the variables in Group 1 and all possible combinations of variables in Groups 2, 3, or 4
 
-### Final Test of Regression methods
+### Final Test of Regression Methods
 - **final_test_tuning_RF_BART_NN.R** - tuning the Random Forest, BART, and Neural Network models using only the selected variables
 - **final_test_all_methods.R** - computing root MSPE and relative root MSPE values over 10 fold cross validation for all regression methods examined using only the selected variables
 
